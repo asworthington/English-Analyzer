@@ -27,3 +27,7 @@ The English Analyzer is a C++ program designed to analyze a paragraph of text in
 1. Compile the `EnglishLab.cpp` program using a C++ compiler.
 2. Run the compiled executable and follow the prompts to enter the filename containing the text paragraph.
 3. View the analysis results displayed, including character count, word count, sentence count, etc.
+
+4. ## Author
+
+- **Development:** Alex Worthington
